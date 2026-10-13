@@ -2,4 +2,4 @@
 learning about Git and Github
 <br>
 <br>
-Author-Atrika Basu
+Author-Atrika Basu(eduphics)
